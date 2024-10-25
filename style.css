@@ -1,0 +1,67 @@
+@charset "utf-8";
+body {
+	
+}
+#dong2 .phai {
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 65px;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: #CC9933;
+}
+.giua {
+    text-align: center;
+}
+.dong1 {
+    text-align: center;
+}
+
+
+body table {
+    color: #CC9933;
+    background-color: #CC9933;
+    margin-left: 413px;
+}
+#dong2 .trai img {
+    margin-bottom: 18px;
+
+
+
+}
+#duoi .trai {
+    background-color: #FFFFFF;
+}
+
+
+#dong2 .trai {
+    text-align: right;
+    background-color: #FFFFFF;
+}
+
+#dong2 .phai {
+    color: #000000;
+    text-align: left;
+}
+#duoi .trai img {
+    /* [disabled]margin-bottom: 130px; */
+    margin-top: 72px;
+}
+#duoi .phai img {
+    margin-top: 132px;
+    text-align: justify;
+}
+
+
+#dong2 .text {
+    color: #000000;
+    text-align: justify;
+    width: 350px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 0px;
+}
+.text p strong {
+    font-size: 27px;
+}

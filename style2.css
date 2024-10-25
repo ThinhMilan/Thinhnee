@@ -1,0 +1,67 @@
+@charset "utf-8";
+.Dong1 {
+}
+body {
+    width: 700px;
+    height: 1180px;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+}
+.Dong2phai #Bang1 {
+	background-color: #CC9933;
+    float: right;
+}
+.Dong2Trai {
+	width: 150px;
+    text-align: right;
+}
+.Dong2Trai .imgstory {
+	margin-top: 50px;
+}
+.Dong2Trai .imgproduct {
+	margin-top: 50px;
+}
+.Dong2Trai .imgweek {
+	margin-top: 50px;
+}
+tbody #dong .trai {
+    background-color: #CCCC99;
+}
+.trai p strong {
+    color: #8B9714;
+    font-size: x-large;
+    text-align: justify;
+}
+#dong .trai p {
+    padding-left: 20px;
+}
+
+
+tbody #dong .phai {
+    background-color: #999966;
+    width: 20%;
+}
+#dong .trai .top {
+    text-align: right;
+    text-decoration: underline;
+    color: #AA00AF;
+}
+.Dong2Trai {
+    height: 1100px;
+}
+.DongCuoi p {
+    text-align: center;
+}
+#dong .trai #link {
+    color: #FF0004;
+}
+.trai #link a {
+    color: #FF0004;
+    text-align: right;
+    margin-left: 360px;
+}
+.DongCuoi {
+}
+.DongCuoi p a {
+    color: #FF0004;
+}
